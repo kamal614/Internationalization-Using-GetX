@@ -1,6 +1,8 @@
 # internationalization
 
-A new Flutter project.
+A flutter project with internationalization implementation using GetX
+
+
 
 ## Getting Started
 
